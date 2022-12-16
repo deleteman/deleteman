@@ -3,7 +3,23 @@ Hi 👋 My name is Fernando Doglio
 Dev Advocate for @openReplay and Tech Author
 --------------------------------------------
 
-I have 20 years of experience in the Software Development industry. During that time: - I've developed in many languages like Ruby, Perl, PHP, Python, JavaScript (both back and front end) - I've developed scalable and highly available platform architectures both for in-house infras and for cloud-based ones. - I've lead small and big teams for projects that spanned from a few months of duration up to a couple of years using multiple technologies together. - I've lead a whole Data engineering area, working on improving the development standards and guiding new Data Engineers. - I've presented plenty of projects to potential clients. - I've written 8 technical books (so far) - I've published over 250+ technical articles online. I love leading projects (both team and client interactions are really interesting to me), working with code and creating content. I'm currently working as a Dev Advocate, creating content and reaching to other developers trying to improve their experience using our products. And you know what? I love it!* 🌍  I'm based in Madrid* 🖥️  See my portfolio at [My technical writing](http://deleteman123.medium.com)* ✉️  You can contact me at [fernando.doglio@gmail.com](mailto:fernando.doglio@gmail.com)* 🧠  I'm learning everything I can* 🤝  I'm open to collaborating on writing technical articles and courses, hit me up!
+I have 20 years of experience in the Software Development industry. During that time: 
+
+- I've developed in many languages like Ruby, Perl, PHP, Python, JavaScript (both back and front end) 
+- I've developed scalable and highly available platform architectures both for in-house infras and for cloud-based ones. 
+- I've lead small and big teams for projects that spanned from a few months of duration up to a couple of years using multiple technologies together. 
+- I've lead a whole Data engineering area, working on improving the development standards and guiding new Data Engineers. 
+- I've presented plenty of projects to potential clients. 
+- I've written 8 technical books (so far) 
+- I've published over 250+ technical articles online. 
+
+I love leading projects (both team and client interactions are really interesting to me), working with code and creating content. I'm currently working as a Dev Advocate, creating content and reaching to other developers trying to improve their experience using our products. And you know what? I love it!
+
+* 🌍  I'm based in Madrid
+* 🖥️  See my portfolio at [My technical writing](http://deleteman123.medium.com)
+* ✉️  You can contact me at [fernando.doglio@gmail.com](mailto:fernando.doglio@gmail.com)
+* 🧠  I'm learning everything I can
+* 🤝  I'm open to collaborating on writing technical articles and courses, hit me up!
 
 <a href="https://www.twitter.com/deleteman123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/deleteman123?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
